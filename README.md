@@ -1,6 +1,8 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Skinstric is a skin care product recommendation system that uses machine learning to analyze your skin and recommend the best products for you.
+
+In this project, I designed a smooth user flow from data entry to results, including a live camera capture function powered by the getUserMedia API, interactive data visualizations with smooth CSS animations, and strong state management with React Hooks.
 
 Currently, two official plugins are available:
 

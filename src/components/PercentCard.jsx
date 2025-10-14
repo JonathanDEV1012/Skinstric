@@ -12,7 +12,7 @@ const PercentCard = ({ title, data, selectedKey, onSelect }) => {
             onClick={() => onSelect && onSelect(key)}
           >
             <span className="flex items-center gap-1 ml-3">
-              {/* Small empty diamond shape */}
+             
               <span className="inline-block w-1.25 h-1.25 border border-current rotate-45 mr-1"></span>
               {key}
             </span>
